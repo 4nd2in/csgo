@@ -5,7 +5,7 @@ A backup for my most important files to run csgo properly
 Before installing any of the configs make sure to go to steam and open the csgo properties. Then add the following to the `Launch Options`
 
 ```
--novid -language colormod -refresh 240 +fps_max 0
+-novid -language colormod -refresh 240 +fps_max 0 +exec autoexec.cfg
 ```
 
 ### Autoexe
