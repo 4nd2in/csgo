@@ -1,4 +1,4 @@
-"config"
+"VideoConfig"
 {
 	"setting.csm_quality_level"		"3"
 	"setting.mat_software_aa_strength"		"1"
