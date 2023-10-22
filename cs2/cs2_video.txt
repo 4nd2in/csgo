@@ -26,7 +26,7 @@
 	"setting.r_texturefilteringquality"		"0"
 	"setting.r_character_decal_resolution"		"256"
 	"setting.r_texture_stream_max_resolution"		"1024"
-	"setting.msaa_samples"		"4"
+	"setting.msaa_samples"		"8"
 	"setting.r_csgo_cmaa_enable"		"0"
 	"setting.csm_max_num_cascades_override"		"2"
 	"setting.csm_viewmodel_shadows"		"0"
